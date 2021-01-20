@@ -10,7 +10,7 @@
 
 ## Результаты ##
 * 100% не успешных
-* [Фактический результат не соответствует ожидаемому]( https://github.com/AnastasiyaPilushina/Java2.2/issues/1)
+* [После обработка данных в итоговом значении теряется "точность"]( https://github.com/AnastasiyaPilushina/Java2.2/issues/1)
 
 
 
