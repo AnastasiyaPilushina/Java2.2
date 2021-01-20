@@ -10,7 +10,7 @@
 
 ## Результаты ##
 * 100% не успешных
-* https://github.com/AnastasiyaPilushina/Java2.2/issues/1
+* [Фактический результат не соответствует ожидаемому]( https://github.com/AnastasiyaPilushina/Java2.2/issues/1)
 
 
 
